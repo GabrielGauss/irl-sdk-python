@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/badge/pypi-0.2.0-blue)](https://pypi.org/project/irl-sdk/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://pypi.org/project/irl-sdk/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![IRL Engine](https://img.shields.io/badge/IRL%20Engine-v1.2.0%20compatible-brightgreen)](https://github.com/GabrielGauss/irl-engine)
+[![IRL Engine](https://img.shields.io/badge/IRL%20Engine-v1.2.0%20compatible-brightgreen)](https://github.com/GabrielGauss/IRL-engine-AX)
 
 Async Python client for the [IRL Engine](https://irl.macropulse.live) — the cryptographic
 pre-execution compliance gateway for autonomous AI trading agents.
@@ -186,7 +186,7 @@ substitutes a zero heartbeat internally.
 
 | Repo | Description |
 |---|---|
-| [irl-engine](https://github.com/GabrielGauss/irl-engine) | Core IRL Engine |
+| [IRL-engine-AX](https://github.com/GabrielGauss/IRL-engine-AX) | Core IRL Engine |
 | [irl-sdk-ts](https://github.com/GabrielGauss/irl-sdk-ts) | TypeScript/Node.js SDK |
 | [irl-public-docs](https://github.com/GabrielGauss/irl-public-docs) | Public documentation hub |
 | [macropulse](https://github.com/GabrielGauss/macropulse) | MacroPulse — MTA operator |
